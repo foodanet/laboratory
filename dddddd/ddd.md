@@ -1,1 +1,0 @@
-<figure class="image"><img src="https://localhost:7029/content/editor/8693dec7-01d0-42bb-a6e9-ce91f4bba52fphoto_2024-06-12_08-01-19.jpg.jpg"></figure>
